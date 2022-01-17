@@ -1,0 +1,19 @@
+*{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.cont{
+    margin: 40%;
+    margin-top: 20%;
+    white-space: nowrap;
+    
+}
+
+.btn{
+    white-space: nowrap;
+    margin-left: 70px;
+    opacity: 75%;
+    
+}
